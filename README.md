@@ -1,10 +1,16 @@
 # Mobilya Websitesi
+Temel düzeyde HTML ve CSS ile yapılmış, basit ve sade bir tasarıma sahip olan mobilya websitesi. 
 
-Bu proje benim yaptığım ilk projelerden biridir. Temel düzeyde yaptığım bu projenin amacı öğrendiğim bilgileri uygulamak ve bu alanda kendimi geliştirmeme
-yardımcı olmasıdır. Bu projeyle deneyimlerimi arttırarak daha ileri seviye projeler yapmak için temel bir zemin hazırlamayı hedefledim.
+# Amacı
+- Kendi projemi ve becerilimi sergilemek
+- Mobilya çeşitlerini göstermek
 
-Bu proje, sadece basit bir deneme olmasının yanı sıra, benim bu alana yönelmemi ve ilgi duymamı sağlamıştır.
-Bu proje sadece HTML ve CSS ile oluşturulmuştur
+# Bana Olan Katkısı
+Bu proje, sadece basit bir deneme olmasının yanı sıra, benim bu alana yönelmemi ve ilgi duymamı sağlamıştır. Temel düzey HTML vs CSS bilgierimi pekiştirmeme çok yardımcı olmuştur.
 
 ## Projenin Amacı
 Bu proje, modern mobilya tasarımlarını sergilemek için oluşturulmuş bir web sitesidir. Amacımız, kullanıcıların istedikleri mobilya seçeneklerine göz atmasını sağlamaktır.
+
+# Kullanılan Teknolojiler
+- HTML
+- CSS
